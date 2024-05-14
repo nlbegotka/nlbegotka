@@ -1,5 +1,5 @@
 #### I am:
-📈 A data Scientist building climate opinion models at [YPCCC](https://climatecommunication.yale.edu)  
+📈 A data scientist building climate opinion models at [YPCCC](https://climatecommunication.yale.edu)  
 
 #### I use:
 

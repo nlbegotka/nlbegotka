@@ -1,4 +1,4 @@
-#### I am:
+#### Hey I'm Nick! A little about me right now:
 1. A data scientist looking for new opportunities 
 2. A Research Affiliate supporting predictive modeling projects at [YPCCC](https://climatecommunication.yale.edu)  
 

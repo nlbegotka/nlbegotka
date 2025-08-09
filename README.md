@@ -1,6 +1,6 @@
 #### Hey I'm Nick! Right now I am:
 1. A data scientist looking for new opportunities 
-2. A Research Affiliate supporting predictive modeling projects at [YPCCC](https://climatecommunication.yale.edu)  
+2. A research affiliate supporting predictive modeling projects at [YPCCC](https://climatecommunication.yale.edu)  
 
 #### I program in:
 
